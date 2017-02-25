@@ -8,4 +8,24 @@ The  first series of podcasts I listened to were from the series, _The Black Tap
 Examples of some of my favorite episodes:
 * Abduction at Willow Woods
 * Woods Ferry
-* Night Delivery 
+* Night Delivery
+##Style
+Each podcasts engaged in a number of stylistic techniques.
+###Soundscape
+Both _ The Black Tapes _ and _ Campfire Radio Theater _  engaged in extensive use of sound effects in order to create a realistic atmosphere for the listeners.
+* phone use --Many episodes of _The Black Tapes_ , the characters are involved in phone conversations. The sound effects used made it seem as is one characters was actually talking through the phone to another character by distorting the the character’s voice. In episode
+* 3D binaural audio experience – In the Episode of Campfire Radio Theater, “Abduction at Willow Woods”, they use an immersive technology that creates a realistic almost 3D sound experience for the listener. This is accomplished, as they say in the introduction to the episode, by recreating how the human ear works using recoding devices and a dummy head.
+
+* background noise : Doors Slamming, feet crunching on dry leaves, and voice coming from off, all of these things are utilized in both _The Black Tapes_ and _Campfire Radio Theater_ .  In episode 212 of (TBT) the main character, Regan, is having a conversation with another character in a cave and they use sound effects to make their voices have realistic echoes.  In “Abduction at Willow Woods”, there is a scene in which they are driving on the highway. They utilize sound effects to emulate honking horns and cars rushing by. This fully immerses the listener in a
+
+
+###Music
+* Change in Scene – In night delivery, and other episodes of CRT, the change in scene is often indicated by creepy music. This adds to the macabre tone of the episode and also makes in easier for the listener to follow what is happening.
+Music in
+
+* Mood Music—Music in TBT is an integral part of setting the mood of each scene. In the climax of episode 210, music is utilized in order to add to the suspense of the listener.
+
+
+###Narrator
+* Introduction to episode –  In both CRT and TBT, each episode is introduced by a narrator. In CRT the introduction involved the writer of the show setting the scene for the story and sometimes giving a little information about the technology used in recording the show. For example, in “The Abduction at Willow Woods”, he gave the listeners some background information about the 3D binaural audio technology that the used.
+* In episode narration— In TBT is presented in a more journalistic style so  the narrator is a central character in the story. This allows them to use the narrator for to introduce certain scenes with her own insight, for example, or introduce a scene change.  For example, in episode 212, at the end of a scene she narrates, “That night was long. Strand and I talked about a lot of things, including the begging of the black tape.” this give the listener insight into the mind of the narrator and contributes to the realistic documentary type feel.
