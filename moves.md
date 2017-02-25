@@ -13,7 +13,7 @@ Examples of some of my favorite episodes:
 ##Style
 Each podcasts engaged in a number of stylistic techniques.
 ###Soundscape
-Both _ The Black Tapes _ and _ Campfire Radio Theater _  engaged in extensive use of sound effects in order to create a realistic atmosphere for the listeners.
+Both _The Black Tapes_ and _Campfire Radio Theater_  engaged in extensive use of sound effects in order to create a realistic atmosphere for the listeners.
 * phone use --Many episodes of _The Black Tapes_ , the characters are involved in phone conversations. The sound effects used made it seem as is one characters was actually talking through the phone to another character by distorting the the character’s voice. In episode
 * 3D binaural audio experience – In the Episode of Campfire Radio Theater, “Abduction at Willow Woods”, they use an immersive technology that creates a realistic almost 3D sound experience for the listener. This is accomplished, as they say in the introduction to the episode, by recreating how the human ear works using recoding devices and a dummy head.
 
