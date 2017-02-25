@@ -6,6 +6,6 @@ The  first series of podcasts I listened to were from the series, _The Black Tap
 ###Episode Story
  The second series of podcasts I listened to were from a show called _Campfire Radio Theater_ . Each podcast told a story that was self-contained with in that episode, meaning that each new episode was its own short story. This short story pattern is effective in capturing the attention of an audience because it allows for listeners to to engage with each episode individually, as opposed to a Series approach, in which each episode is connected by an overarching plot.
 Examples of some of my favorite episodes:
-*Abduction at Willow Woods
-*Woods Ferry
-*Night Delivery 
+* Abduction at Willow Woods
+* Woods Ferry
+* Night Delivery 
